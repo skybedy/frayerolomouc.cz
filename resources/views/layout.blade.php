@@ -59,7 +59,7 @@ nav li a{
 
 .nav-middle{
   background: url("images/logo.png") top left no-repeat;
-  background-size: 10%;
+  background-size: 20%;
 }
 
 .nav-middle li{
