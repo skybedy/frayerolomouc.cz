@@ -136,8 +136,8 @@ nav li a{
 
 
 
-           <div class="col-md-5 mx-auto mt-2 border border-dark">
-      <div id="mojKarusel1" class="carousel slide" data-bs-ride="carousel">
+  <div class="col-md-5 mx-auto mt-2 border border-dark">
+      <div id="carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active" data-bs-interval="2000">
                 <img src="images/1.jpg" class="d-block w-100" alt="Obrazek 1">
@@ -167,10 +167,66 @@ nav li a{
                 <img src="images/9.jpg" class="d-block w-100" alt="Obrazek 3">
             </div>
         </div>
-
      </div>
-     </div>
+  </div>
 
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/rolaky.jpg" class="card-img-top" alt="Obrázek 1">
+            </div>
+            <h5 class="text-center mt-4">Roláky</h5>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/svetry.jpg" class="card-img-top" alt="Obrázek 2">
+            </div>
+            <h5 class="text-center mt-4">Svetry</h5>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/vesty.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+            <h5 class="text-center mt-4">Vesty</h5>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/bundy.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+            <h5 class="text-center mt-4">Bundy</h5>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/teplaky.jpg" class="card-img-top" alt="Obrázek 1">
+            </div>
+            <h5 class="text-center mt-4">Tepláky</h5>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/rifle.jpg" class="card-img-top" alt="Obrázek 2">
+            </div>
+            <h5 class="text-center mt-4">Rifle</h5>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/kabele.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+            <h5 class="text-center mt-4">Kabele</h5>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <img src="images/pyzama.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+            <h5 class="text-center mt-4">Pyžama</h5>
+        </div>
+    </div>
+</div
 
 
 
