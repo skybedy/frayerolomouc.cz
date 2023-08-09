@@ -107,17 +107,33 @@ nav li a{
                     <h1 class="text-center">Tvá cesta k módě</h1>
 
                 </div>
-                <div class="col text-ed">
-                    <div class="row">
-                        <div class="col"></div>
-                        <div class="col"></div>
-                        <div class="col pt-5 pb-0">
-                            <address>
-                                ADRESA:<br>
-                                Sokolská 789/1<br>
-                                779 00 Olomouc
-                            </address>
+                <div class="col">
+                    <div>
+                        <div class="row">
+                            <div class="col"></div>
+                            <div class="col"></div>
+                            <div class="col pb-0">
+                                <address>
+                                    ADRESA:<br>
+                                    Sokolská 789/1<br>
+                                    779 00 Olomouc
+                                </address>
+                            </div>
                         </div>
+                    </div>
+                    <div>
+
+                        <div class="d-flex align-items-center">
+                            <a href="https://www.facebook.com" class="me-3">
+                                <img src="images/facebook-logo.png" alt="Logo Facebook" width="50" height="50">
+                            </a>
+                            <a href="https://www.instagram.com" class="me-3">
+                                <img src="images/instagram-logo.png" alt="Logo Instagram" width="50" height="50">
+                            </a>
+                            <p class="h2  pt-3">Tak se obléká Frayer</p>
+
+                        </div>
+
                     </div>
                 </div>
             </div>
