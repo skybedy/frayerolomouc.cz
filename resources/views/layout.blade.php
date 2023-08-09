@@ -130,6 +130,50 @@ nav li a{
             </ul>
           </nav>
         </div>
+  </div>
+      
+     
+
+
+
+           <div class="col-md-5 mx-auto mt-2 border border-dark">
+      <div id="mojKarusel1" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="2000">
+                <img src="images/1.jpg" class="d-block w-100" alt="Obrazek 1">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/2.jpg" class="d-block w-100" alt="Obrazek 2">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/3.jpg" class="d-block w-100" alt="Obrazek 3">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/4.jpg" class="d-block w-100" alt="Obrazek 1">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/5.jpg" class="d-block w-100" alt="Obrazek 2">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/6.jpg" class="d-block w-100" alt="Obrazek 3">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/7.jpg" class="d-block w-100" alt="Obrazek 1">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/8.jpg" class="d-block w-100" alt="Obrazek 2">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="images/9.jpg" class="d-block w-100" alt="Obrazek 3">
+            </div>
+        </div>
+
+     </div>
+     </div>
+
+
+
+
 
 
 
