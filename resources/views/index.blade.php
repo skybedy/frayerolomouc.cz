@@ -2,8 +2,7 @@
 <html>
 <head>
     <!-- Scripts -->
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous"> 
     
     <style>
 
@@ -150,39 +149,39 @@ nav li a{
 <div class="container">
 
 
-  <div class="col-md-5 mx-auto mt-2 border border-dark">
-      <div id="carousel" class="carousel slide" data-bs-ride="carousel">
+
+
+
+      
+
+
+
+    <div id="carouselExampleSlidesOnly" class="carousel slide border border-dark mt-3" data-ride="carousel">
         <div class="carousel-inner">
-            <div class="carousel-item active" data-bs-interval="2000">
-                <img src="images/1.jpg" class="d-block w-100" alt="Obrazek 1">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/2.jpg" class="d-block w-100" alt="Obrazek 2">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/3.jpg" class="d-block w-100" alt="Obrazek 3">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/4.jpg" class="d-block w-100" alt="Obrazek 1">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/5.jpg" class="d-block w-100" alt="Obrazek 2">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/6.jpg" class="d-block w-100" alt="Obrazek 3">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/7.jpg" class="d-block w-100" alt="Obrazek 1">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/8.jpg" class="d-block w-100" alt="Obrazek 2">
-            </div>
-            <div class="carousel-item" data-bs-interval="2000">
-                <img src="images/9.jpg" class="d-block w-100" alt="Obrazek 3">
-            </div>
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="images/1.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="images/2.jpg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="images/3.jpg" alt="Third slide">
+          </div>
         </div>
-     </div>
-  </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
   <hr>
 
 <h2 class="h1 mt-5 text-center">Nabízíme k prodeji</h2>
@@ -328,5 +327,9 @@ nav li a{
 
 
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>       
 </body>
 </html>
