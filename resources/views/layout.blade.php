@@ -133,7 +133,7 @@ nav li a{
   </div>
       
      
-
+<div class="container">
 
 
   <div class="col-md-5 mx-auto mt-2 border border-dark">
@@ -169,8 +169,10 @@ nav li a{
         </div>
      </div>
   </div>
+  <hr>
 
-<div class="container mt-5">
+<h2 class="h1 mt-5 text-center">Nabízíme k prodeji</h2>
+<div class="container mt-1">
     <div class="row">
         <div class="col-md-3">
             <div class="card">
@@ -226,7 +228,51 @@ nav li a{
             <h5 class="text-center mt-4">Pyžama</h5>
         </div>
     </div>
-</div
+</div>
+<hr>
+
+<h2 class="h1 mt-5 text-center">Oblíbené značky</h2>
+
+
+<div class="container mt-3 mb-3">
+    <div class="row">
+        <div class="col-md-2">
+            <div class="card">
+                <img src="images/pietro-moneti-logo.jpg" class="card-img-top" alt="Obrázek 1">
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <img src="images/vamp-logo.jpg" class="card-img-top" alt="Obrázek 2">
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <img src="images/scharf-logo.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <img src="images/ferrini-logo.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <img src="images/cars-jeans-logo.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card">
+                <img src="images/cars-jeans-logo.jpg" class="card-img-top" alt="Obrázek 3">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+</div>
 
 
 
