@@ -221,6 +221,30 @@ nav li a{
             </div>
         </div>
     </div>
+
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="images/kalhoty1.jpg" class="card-img-top" alt="Obrázek 1">
+                </div>
+                <h5 class="text-center mt-4">Kalhoty</h5>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="images/mikiny1.jpg" class="card-img-top" alt="Obrázek 2">
+                </div>
+                <h5 class="text-center mt-4">Mikiny</h5>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="images/kosile1.jpg" class="card-img-top" alt="Obrázek 3">
+                </div>
+                <h5 class="text-center mt-4">Košile</h5>
+            </div>
+        </div>
+    </div>
+
     <hr>
 
     <h2 class="h1 mt-5 text-center">Oblíbené značky</h2>
