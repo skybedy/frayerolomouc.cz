@@ -253,7 +253,7 @@ nav li a{
             </div>
             <div class="col-md-2">
                 <div class="card">
-                    <img src="images/cars-jeans-logo.jpg" class="card-img-top" alt="Obrázek 3">
+                    <img src="images/city-classic-logo.jpg" class="card-img-top" alt="Obrázek 3">
                 </div>
             </div>
         </div>
