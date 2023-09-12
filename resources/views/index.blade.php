@@ -242,6 +242,12 @@ nav li a{
                 </div>
                 <h5 class="text-center mt-4">Košile</h5>
             </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="images/obleky.jpg" class="card-img-top" alt="Obleky">
+                </div>
+                <h5 class="text-center mt-4">Obleky</h5>
+            </div>
         </div>
     </div>
 
