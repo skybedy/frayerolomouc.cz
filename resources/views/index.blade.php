@@ -168,7 +168,7 @@ nav li a{
         <div class="row">
             <div class="col-md-3">
                 <div class="card">
-                    <img src="images/rolaky.jpg" class="card-img-top" alt="Obrázek 1">
+                    <img src="images/rolaky1.jpg" class="card-img-top" alt="Obrázek 1">
                 </div>
                 <h5 class="text-center mt-4">Roláky</h5>
             </div>
