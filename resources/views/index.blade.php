@@ -297,7 +297,7 @@ nav li a{
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <img src="images/plavky.jpg" class="card-img-top" alt="Obleky">
+                    <img src="images/plavky1.jpg" class="card-img-top" alt="Obleky">
                 </div>
                 <h5 class="text-center mt-4">Plavky</h5>
             </div>
