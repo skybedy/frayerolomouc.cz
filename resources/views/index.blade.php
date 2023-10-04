@@ -1,9 +1,12 @@
 <!doctype html>
 <html>
 <head>
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous"> 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri&display=swap">
-
+    <!-- Scripts -->
+    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+    
 
     <style>
 
@@ -86,7 +89,7 @@ nav li a{
   color: #fff;
 }
 
- 
+
 
 
     </style>
@@ -149,19 +152,40 @@ nav li a{
       
      
 <div class="container">
-    <div id="carouselExampleSlidesOnly" class="carousel slide border border-dark mt-3" data-ride="carousel">
+    
+    <div id="carouselExampleSlidesOnly" class="carousel slide border border-dark mt-3" data-bs-ride="carousel" data-bs-interval="2000">
         <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-100" src="images/1.jpg" alt="First slide">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="images/2.jpg" alt="Second slide">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="images/3.jpg" alt="Third slide">
-        </div>
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="images/1.jpg" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/2.jpg" alt="Second slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/3.jpg" alt="Third slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/4.jpg" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/5.jpg" alt="Second slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/6.jpg" alt="Third slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/7.jpg" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/8.jpg" alt="Second slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="images/9.jpg" alt="Third slide">
+            </div>       
         </div>
     </div>
+    
+    
     <hr>
     <h2 class="h1 mt-5 text-center">Nabízíme k prodeji</h2>
     <div class="container mt-1">
@@ -324,8 +348,5 @@ nav li a{
         Jde většinou o přírodní a kvalitní materiály českých i zahraničních firem za skvělé ceny.<br> Těšíme se na vás, rády poradíme s výběrem a vhodným oblečením i velikostí.</p>
     </div>
 </div>
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>       
 </body>
 </html>
