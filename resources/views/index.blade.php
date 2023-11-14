@@ -117,7 +117,7 @@ nav li a{
                         <div class="row">
                             <div class="col"></div>
                             <div class="col pb-0">
-                                <address>
+                                <address class="h4">
                                     ADRESA:<br>
                                     Sokolská 789/1<br>
                                     779 00 Olomouc (za SPEA)
